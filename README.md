@@ -21,5 +21,5 @@ Files:
   
 ##Todo
 
-Approach the algorithm in a different way. (Understanding what it actually does would be a good start)
-Add a description at the start of each code file (and maybe some restructuring?)
+- Approach the algorithm in a different way. (Understanding what it actually does would be a good start)
+- Add a description at the start of each code file (and maybe some restructuring?)
